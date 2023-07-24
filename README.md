@@ -25,7 +25,7 @@ In this lab scenario, a junior administrator has deployed a VPC and instances, b
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/wlwMIgu.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -37,18 +37,18 @@ For Instance, select Instance3 and click Associate.
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/01h1ERs.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
 <br />
 
-Copy the public IP address of Instance 3 and attempt to ping the instance from either your own local terminal or ssh into Instance 1. to do the ping test
+Copy the public IP address of Instance 3 and attempt to ping the instance from either your own local terminal or ssh into Instance 1 to do the ping test
 
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/XVZCHw2.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -67,7 +67,8 @@ Copy the public IP address of Instance 3 and attempt to ping the instance from e
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/oJrXVro.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/OYcmOFm.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -85,7 +86,7 @@ Copy the public IP address of Instance 3 and attempt to ping the instance from e
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/8JE03tC.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -99,7 +100,8 @@ Copy the public IP address of Instance 3 and attempt to ping the instance from e
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/iUeEp51.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/cffmZ9g.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -113,7 +115,7 @@ Copy the public IP address of Instance 3 and attempt to ping the instance from e
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/vb7jYMC.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -124,7 +126,7 @@ Navigate back to the terminal to verify ping results. It should still fail.
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/CX0VUlI.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -139,7 +141,7 @@ Navigate back to the terminal to verify ping results. It should still fail.
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/DpasP7d.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -151,7 +153,7 @@ Navigate back to the terminal to confirm successful ping results. It should ping
  <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/zvvF6rZ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/INTre5A.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
