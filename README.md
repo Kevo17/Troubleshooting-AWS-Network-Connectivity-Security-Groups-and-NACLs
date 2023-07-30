@@ -12,6 +12,7 @@ In this lab scenario, a junior administrator has deployed a VPC and instances, b
 
 - <b>Windows 11</b>
 - <b>AWS</b>
+- <b>Linux</b>
   
 <h2>Program walk-through:</h2>
 
